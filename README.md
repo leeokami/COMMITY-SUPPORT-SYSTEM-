@@ -8,7 +8,9 @@ My name is Li HaonDong, a computer science student at USM.
 ##### Community Support System
 
 ***Subsystem 1: local safety monitoring subsystem (accident & criminal tracking GIS)***
+
 ***Subsystem 2: community events information subsystem***
+
 ***Subsystem 3: local business marketplace subsystem***
 
 ## COMMITY-SUPPORT-SYSTEM-SUBSYSTEM- LOCAL-BUSINESS-MARKETPLACE
